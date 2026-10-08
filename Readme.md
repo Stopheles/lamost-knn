@@ -25,7 +25,6 @@ pip install -r requirements.txt
 python prep_data.py          # 生成数据划分（只需一次）
 python run_experiments.py    # 完整实验
 python error_analysis.py     # 错误分析
-python make_summary.py       # 生成摘要 docx
 ```
 
 预测程序打包为 exe（可选）：
